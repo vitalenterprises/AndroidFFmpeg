@@ -1,7 +1,4 @@
 #Specific
-library-jni/libs/
-library-jni/obj/
-library-jni/jni/ffmpeg-build/
 
 #IntelliJ IDEA
 .idea
